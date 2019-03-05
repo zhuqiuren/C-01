@@ -1,4 +1,4 @@
-#incloud <stido.h>
+#include <stido.h>
 int main (void)
 {
 	printf("hellow word!\n");
