@@ -1,6 +1,6 @@
 #incloud <stido.h>
 int main (void)
 {
-	printf"hellow word";
+	printf("hellow word!\n");
 	return 0;
 }
